@@ -1,0 +1,10 @@
+langchain==0.2.5
+langchain-core==0.2.7
+python-dotenv
+langchain-groq==0.1.6
+langchain-community==0.2.5
+duckduckgo-search==5.3.1b1
+requests==2.31.0
+tavily-python
+langchainhub
+streamlit
